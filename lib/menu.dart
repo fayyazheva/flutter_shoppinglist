@@ -1,5 +1,7 @@
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key}) : super(key: key);
+import 'package:flutter/material.dart';
+class MyHomePage extends StatelessWidget {
+   MyHomePage({Key? key}) : super(key: key);
+   
   final List<ShopItem> items = [
     ShopItem("Lihat Produk", Icons.checklist),
     ShopItem("Tambah Produk", Icons.add_shopping_cart),
