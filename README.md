@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 https://build.appcenter.ms/v0.1/apps/935ffb63-337e-4e99-b0fd-63954d06e827/branches/main/badge
 
+https://install.appcenter.ms/orgs/fayya_shopping_list/apps/shopping_list/distribution_groups/public
